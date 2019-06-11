@@ -1,2 +1,2 @@
-#0x02-vim
-This is the 0x02 vim project for Holberton
+# 0x02-vi
+This is the 0x02 vi project for Holberton
